@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "general",
+    "Brand/Whitelabel",
     "Brand/Light",
-    "Brand/Random Brand",
     "Brand/Dark",
     "Template/Main"
   ]

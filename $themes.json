@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Template/Main": "enabled",
-      "Brand/Light": "source"
+      "Brand/Light": "source",
+      "Brand/Whitelabel": "disabled"
     }
   },
   {
@@ -13,8 +14,17 @@
     "name": "Bettybossi",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/Random Brand": "enabled",
-      "Template/Main": "enabled"
+      "Template/Main": "enabled",
+      "Brand/Whitelabel": "enabled"
+    }
+  },
+  {
+    "id": "544253ec8d67403496c9cdb34591d62bb1233a5d",
+    "name": "Whitelabel",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Template/Main": "enabled",
+      "Brand/Whitelabel": "enabled"
     }
   }
 ]
