@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1205118c7156a6961c28c736aba92231d56d613c",
+    "name": "Audi",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Template/Main": "enabled",
+      "Brand/Light": "source"
+    }
+  },
+  {
+    "id": "02720ef23c83e7ab99148a54772e2fdc885b6c4d",
+    "name": "Bettybossi",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Brand/Random Brand": "enabled",
+      "Template/Main": "enabled"
+    }
+  }
+]
