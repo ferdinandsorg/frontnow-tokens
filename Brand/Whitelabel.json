@@ -489,8 +489,7 @@
         "9 (base)": {
           "value": "#8E4EC6",
           "type": "color",
-          "parent": "Brand/Light",
-          "$extensions": {}
+          "parent": "Brand/Light"
         }
       },
       "Default": {
@@ -554,23 +553,23 @@
     },
     "borderRadius": {
       "s": {
-        "value": "0",
+        "value": "0.25rem",
         "type": "borderRadius"
       },
       "m": {
-        "value": "0",
+        "value": "0.5rem",
         "type": "borderRadius"
       },
       "l": {
-        "value": "0",
+        "value": "1rem",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "0",
+        "value": "0.75rem",
         "type": "borderRadius"
       },
       "2xl": {
-        "value": "0",
+        "value": "1rem",
         "type": "borderRadius"
       },
       "xs": {
@@ -578,8 +577,50 @@
         "type": "borderRadius"
       },
       "full": {
-        "value": "0",
+        "value": "62.4375rem",
         "type": "borderRadius"
+      }
+    },
+    "fontSizes": {
+      "0": {
+        "value": "0.625rem",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "0.75rem",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "0.875rem",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "1rem",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "1.125rem",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "1.25rem",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "1.5rem",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "1.75rem",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "2.1875rem",
+        "type": "fontSizes"
+      },
+      "9": {
+        "value": "3.75rem",
+        "type": "fontSizes"
       }
     }
   }

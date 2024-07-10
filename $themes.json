@@ -5,8 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Template/Main": "enabled",
-      "Brand/Light": "source",
-      "Brand/Whitelabel": "disabled"
+      "Brand/Light": "source"
     }
   },
   {
