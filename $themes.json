@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Template/Main": "enabled",
-      "Brand/Light": "source"
+      "Brand/Light": "source",
+      "Brand/Audi": "disabled"
     }
   },
   {
@@ -14,7 +15,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Template/Main": "enabled",
-      "Brand/Whitelabel": "enabled"
+      "Brand/Whitelabel": "enabled",
+      "Brand/Audi": "disabled"
     }
   },
   {
@@ -23,7 +25,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Template/Main": "enabled",
-      "Brand/Whitelabel": "enabled"
+      "Brand/Whitelabel": "enabled",
+      "Brand/Audi": "disabled"
     }
   }
 ]
