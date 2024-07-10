@@ -5,8 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Template/Main": "enabled",
-      "Brand/Light": "source",
-      "Brand/Audi": "disabled"
+      "Brand/Audi": "enabled",
+      "Brand/Random-Brand": "disabled"
     }
   },
   {
@@ -16,7 +16,7 @@
     "selectedTokenSets": {
       "Template/Main": "enabled",
       "Brand/Whitelabel": "enabled",
-      "Brand/Audi": "disabled"
+      "Brand/Random-Brand": "disabled"
     }
   },
   {
@@ -26,7 +26,16 @@
     "selectedTokenSets": {
       "Template/Main": "enabled",
       "Brand/Whitelabel": "enabled",
-      "Brand/Audi": "disabled"
+      "Brand/Random-Brand": "disabled"
+    }
+  },
+  {
+    "id": "f248f50054ad066e1c1b12d21affddbae4aa1242",
+    "name": "RandomBrand",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Template/Main": "enabled",
+      "Brand/Random-Brand": "enabled"
     }
   }
 ]

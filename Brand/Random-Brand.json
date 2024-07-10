@@ -6,27 +6,27 @@
         "type": "spacing"
       },
       "s": {
-        "value": "0.125rem",
+        "value": "0.1rem",
         "type": "spacing"
       },
       "m": {
-        "value": "0.25rem",
+        "value": "0.125rem",
         "type": "spacing"
       },
       "l": {
-        "value": "0.5rem",
+        "value": "0.2rem",
         "type": "spacing"
       },
       "xl": {
-        "value": "0.75rem",
+        "value": "0.25rem",
         "type": "spacing"
       },
       "2xl": {
-        "value": "1rem",
+        "value": "0.5rem",
         "type": "spacing"
       },
       "3xl": {
-        "value": "1.25rem",
+        "value": "0.75rem",
         "type": "spacing"
       },
       "4xl": {
@@ -347,147 +347,147 @@
       },
       "Neutrals": {
         "1": {
-          "value": "#fcfcfd",
+          "value": "#f1f5f9",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "2": {
-          "value": "#f9f9fb",
+          "value": "#e2e8f0",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "3": {
-          "value": "#f2f2f5",
+          "value": "#cbd5e1",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "4": {
-          "value": "#ebebef",
+          "value": "#94a3b8",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "5": {
-          "value": "#e4e4e9",
+          "value": "#64748b",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "6": {
-          "value": "#dddde3",
+          "value": "#475569",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "7": {
-          "value": "#d3d4db",
+          "value": "#334155",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "8": {
-          "value": "#b9bbc6",
+          "value": "#1e293b",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "9": {
-          "value": "#8b8d98",
+          "value": "#0f172a",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "10": {
-          "value": "#7e808a",
+          "value": "#0e1621",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "11": {
-          "value": "#60646c",
+          "value": "#0c141e",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "12": {
-          "value": "#1c2024",
+          "value": "#0a121b",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         }
       },
-      "Purple": {
+      "BrandColor": {
         "1": {
-          "value": "#fefcfe",
+          "value": "#f0f7ff",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "2": {
-          "value": "#fdfaff",
+          "value": "#e0efff",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "3": {
-          "value": "#f9f1fe",
+          "value": "#b3d1ff",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "4": {
-          "value": "#f3e7fc",
+          "value": "#80aaff",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "5": {
-          "value": "#eddbf9",
+          "value": "#4d81ff",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "6": {
-          "value": "#e3ccf4",
+          "value": "#1a59ff",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "7": {
-          "value": "#d3b4ed",
+          "value": "#0047e6",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "8": {
-          "value": "#be93e4",
+          "value": "#0037b3",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "10": {
-          "value": "#8445bc",
+          "value": "#001a66",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "11": {
-          "value": "#793aaf",
+          "value": "#00134d",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "12": {
-          "value": "#402060",
+          "value": "#000d33",
           "type": "color",
           "parent": "Brand/Light",
           "description": ""
         },
         "9 (base)": {
-          "value": "#8E4EC6",
+          "value": "#002680",
           "type": "color",
           "parent": "Brand/Light"
         }
@@ -508,11 +508,11 @@
       }
     },
     "Body": {
-      "value": "Roboto",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "Title": {
-      "value": "Roboto Slab",
+      "value": "Playfair Display",
       "type": "fontFamilies"
     },
     "body-fontWeight": {
@@ -535,50 +535,92 @@
     },
     "title-fontWeight": {
       "Light": {
-        "value": "100",
+        "value": "400",
         "type": "fontWeights"
       },
       "Regular": {
-        "value": "400",
+        "value": "600",
         "type": "fontWeights"
       },
       "Medium": {
-        "value": "400",
+        "value": "800",
         "type": "fontWeights"
       },
       "Bold": {
-        "value": "700",
+        "value": "900",
         "type": "fontWeights"
       }
     },
     "borderRadius": {
-      "s": {
+      "xs": {
         "value": "0.25rem",
         "type": "borderRadius"
       },
-      "m": {
+      "s": {
         "value": "0.5rem",
         "type": "borderRadius"
       },
-      "l": {
+      "m": {
         "value": "1rem",
+        "type": "borderRadius"
+      },
+      "l": {
+        "value": "2rem",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "0.75rem",
+        "value": "3rem",
         "type": "borderRadius"
       },
       "2xl": {
-        "value": "1rem",
-        "type": "borderRadius"
-      },
-      "xs": {
-        "value": "0.125rem",
+        "value": "5rem",
         "type": "borderRadius"
       },
       "full": {
-        "value": "62.4375rem",
+        "value": "99rem",
         "type": "borderRadius"
+      }
+    },
+    "fontSizes": {
+      "0": {
+        "value": "0.625rem",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "0.75rem",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "0.875rem",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "1rem",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "1.125rem",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "1.25rem",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "1.5rem",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "1.75rem",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "2.1875rem",
+        "type": "fontSizes"
+      },
+      "9": {
+        "value": "3.75rem",
+        "type": "fontSizes"
       }
     }
   }

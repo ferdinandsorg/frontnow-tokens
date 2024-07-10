@@ -419,7 +419,7 @@
           "description": ""
         }
       },
-      "Purple": {
+      "BrandColor": {
         "1": {
           "value": "#fefcfe",
           "type": "color",
@@ -469,25 +469,22 @@
           "description": ""
         },
         "10": {
-          "value": "#8445bc",
+          "value": "#000",
           "type": "color",
-          "parent": "Brand/Light",
-          "description": ""
+          "parent": "Brand/Light"
         },
         "11": {
-          "value": "#793aaf",
+          "value": "#000",
           "type": "color",
-          "parent": "Brand/Light",
-          "description": ""
+          "parent": "Brand/Light"
         },
         "12": {
-          "value": "#402060",
+          "value": "#000",
           "type": "color",
-          "parent": "Brand/Light",
-          "description": ""
+          "parent": "Brand/Light"
         },
         "9 (base)": {
-          "value": "#8E4EC6",
+          "value": "#000",
           "type": "color",
           "parent": "Brand/Light"
         }
@@ -508,11 +505,11 @@
       }
     },
     "Body": {
-      "value": "Open Sans",
+      "value": "Audi Type Variable",
       "type": "fontFamilies"
     },
     "Title": {
-      "value": "Open Sans",
+      "value": "Audi Type Variable",
       "type": "fontFamilies"
     },
     "body-fontWeight": {
@@ -552,32 +549,32 @@
       }
     },
     "borderRadius": {
+      "xs": {
+        "value": "0",
+        "type": "borderRadius"
+      },
       "s": {
-        "value": "0.25rem",
+        "value": "0",
         "type": "borderRadius"
       },
       "m": {
-        "value": "0.5rem",
+        "value": "0",
         "type": "borderRadius"
       },
       "l": {
-        "value": "1rem",
+        "value": "0",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "0.75rem",
+        "value": "0",
         "type": "borderRadius"
       },
       "2xl": {
-        "value": "1rem",
-        "type": "borderRadius"
-      },
-      "xs": {
-        "value": "0.125rem",
+        "value": "0",
         "type": "borderRadius"
       },
       "full": {
-        "value": "62.4375rem",
+        "value": "0",
         "type": "borderRadius"
       }
     },

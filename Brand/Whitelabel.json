@@ -419,7 +419,7 @@
           "description": ""
         }
       },
-      "Purple": {
+      "BrandColor": {
         "1": {
           "value": "#fefcfe",
           "type": "color",
@@ -552,6 +552,10 @@
       }
     },
     "borderRadius": {
+      "xs": {
+        "value": "0.125rem",
+        "type": "borderRadius"
+      },
       "s": {
         "value": "0.25rem",
         "type": "borderRadius"
@@ -565,19 +569,15 @@
         "type": "borderRadius"
       },
       "xl": {
-        "value": "0.75rem",
+        "value": "1rem",
         "type": "borderRadius"
       },
       "2xl": {
         "value": "1rem",
         "type": "borderRadius"
       },
-      "xs": {
-        "value": "0.125rem",
-        "type": "borderRadius"
-      },
       "full": {
-        "value": "62.4375rem",
+        "value": "1rem",
         "type": "borderRadius"
       }
     },

@@ -47,25 +47,25 @@
   },
   "interaction": {
     "primary": {
-      "value": "{brand.Colors.Purple.9 (base)}",
+      "value": "{brand.Colors.BrandColor.9 (base)}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
     },
     "tertiary": {
-      "value": "{brand.Colors.Purple.4}",
+      "value": "{brand.Colors.BrandColor.4}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
     },
     "quaternary": {
-      "value": "{brand.Colors.Purple.2}",
+      "value": "{brand.Colors.BrandColor.2}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
     },
     "secondary": {
-      "value": "{brand.Colors.Purple.7}",
+      "value": "{brand.Colors.BrandColor.7}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
@@ -79,7 +79,7 @@
       "description": ""
     },
     "secondary": {
-      "value": "{brand.Colors.Purple.9 (base)}",
+      "value": "{brand.Colors.BrandColor.9 (base)}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
@@ -105,19 +105,19 @@
   },
   "icon": {
     "primary": {
-      "value": "{brand.Colors.Purple.9 (base)}",
+      "value": "{brand.Colors.BrandColor.9 (base)}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
     },
     "secondary": {
-      "value": "{brand.Colors.Purple.7}",
+      "value": "{brand.Colors.BrandColor.7}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
     },
     "tertiary": {
-      "value": "{brand.Colors.Purple.4}",
+      "value": "{brand.Colors.BrandColor.4}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
@@ -137,7 +137,7 @@
   },
   "stroke": {
     "primary": {
-      "value": "{brand.Colors.Purple.9 (base)}",
+      "value": "{brand.Colors.BrandColor.9 (base)}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
@@ -155,7 +155,7 @@
       "description": ""
     },
     "quaternary": {
-      "value": "{brand.Colors.Purple.4}",
+      "value": "{brand.Colors.BrandColor.4}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
@@ -175,13 +175,13 @@
       "description": ""
     },
     "tertiary": {
-      "value": "{brand.Colors.Purple.9 (base)}",
+      "value": "{brand.Colors.BrandColor.9 (base)}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
     },
     "quaternary": {
-      "value": "{brand.Colors.Purple.4}",
+      "value": "{brand.Colors.BrandColor.4}",
       "type": "color",
       "parent": "Template/Main",
       "description": ""
@@ -1610,6 +1610,10 @@
     }
   },
   "borderRadius": {
+    "xs": {
+      "value": "{brand.borderRadius.xs}",
+      "type": "borderRadius"
+    },
     "s": {
       "value": "{brand.borderRadius.s}",
       "type": "borderRadius"
@@ -1619,23 +1623,19 @@
       "type": "borderRadius"
     },
     "l": {
-      "value": "1rem",
+      "value": "{brand.borderRadius.l}",
       "type": "borderRadius"
     },
     "xl": {
-      "value": "0.75rem",
+      "value": "{brand.borderRadius.xl}",
       "type": "borderRadius"
     },
     "2xl": {
-      "value": "1rem",
-      "type": "borderRadius"
-    },
-    "xs": {
-      "value": "0.125rem",
+      "value": "{brand.borderRadius.2xl}",
       "type": "borderRadius"
     },
     "full": {
-      "value": "62.4375rem",
+      "value": "{brand.borderRadius.full}",
       "type": "borderRadius"
     }
   }
